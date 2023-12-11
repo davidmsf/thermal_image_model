@@ -1,0 +1,20 @@
+leak\0_Mixture.png 0
+leak\1000_Mixture.png 0
+leak\1001_Mixture.png 0
+leak\1002_Mixture.png 0
+leak\1003_Mixture.png 0
+leak\106_Mixture.png 0
+leak\109_Mixture.png 0
+leak\10_Mixture.png 0
+leak\1101_Mixture.png 0
+leak\11_Mixture.png 0
+
+noleak\103_NoGas.png 1
+noleak\1000_NoGas.png 1
+noleak\1001_NoGas.png 1
+noleak\1191_NoGas.png 1
+noleak\1195_NoGas.png 1
+noleak\1198_NoGas.png 1
+noleak\1199_NoGas.png 1
+noleak\1200_NoGas.png 1
+noleak\1201_NoGas.png 1
